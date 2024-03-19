@@ -1,2 +1,2 @@
 # ExperienceBuildingApp
-# my first experience building an app with React Native.'
+# my first experience building an app with React Native!.'
